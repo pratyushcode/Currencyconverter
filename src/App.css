@@ -1,0 +1,21 @@
+/* * {
+  background: grey;
+  color: white;
+}
+
+.title {
+  text-align: center;cd   
+  align-items: center;
+  justify-content: center;
+  background: darkslategray;
+  color: white;
+  font-size: 45px;
+  font: bold;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300vh;
+} */
